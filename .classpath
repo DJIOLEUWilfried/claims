@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> d3dd71ef283b5d8c0f41f079d0332e4bf96721fc
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.25">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
-<<<<<<< HEAD
-=======
-=======
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Dossiers Bureau/APPLICACTION SCHOOL/outils dev java/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Dossiers Bureau/Connecteurs/JBCrypt java/jbcrypt-0.4.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
->>>>>>> branch 'master' of https://github.com/DJIOLEUWilfried/claims.git
->>>>>>> d3dd71ef283b5d8c0f41f079d0332e4bf96721fc
 	<classpathentry kind="output" path="bin"/>
 </classpath>
